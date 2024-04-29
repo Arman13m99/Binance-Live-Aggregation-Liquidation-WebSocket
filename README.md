@@ -25,7 +25,7 @@ This repository contains Python scripts for creating WebSocket bots that stream 
   - Processes incoming messages to extract liquidation order details such as symbol, order type, price, quantity, etc.
   - Stores the liquidation order data in a pandas DataFrame and saves it to a CSV file.
 - **Dependencies**:
-  - Python 3.x
+  - Python 3.9.18
   - pandas
   - websocket-client
 
