@@ -14,7 +14,7 @@ This repository contains Python scripts for creating WebSocket bots that stream 
   - Parses incoming messages, extracts relevant trade information, and stores it in a pandas DataFrame.
   - Saves the aggregated trade data to a CSV file every hour.
 - **Dependencies**:
-  - Python 3.x
+  - Python 3.9.18
   - pandas
   - websocket-client
   
